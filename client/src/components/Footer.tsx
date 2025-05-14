@@ -11,18 +11,18 @@ export default function Footer({ whatsappNumber }: FooterProps) {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div>
             <h3 className="text-xl font-heading font-bold mb-4">MKW Dedetizadora</h3>
-            <p className="text-gray-400 mb-2">CNPJ: XX.XXX.XXX/0001-XX</p>
+            <p className="text-gray-400 mb-2">CNPJ: 46.389.272-000126</p>
             <p className="text-gray-400">Soluções rápidas, seguras e eficazes para um ambiente livre de pragas.</p>
           </div>
           
           <div>
             <h3 className="text-xl font-heading font-bold mb-4">Área de Atendimento</h3>
-            <p className="text-gray-400">Atendemos toda a região de São Paulo, incluindo:</p>
+            <p className="text-gray-400">Atendemos toda a região de Brasília - DF, incluindo:</p>
             <ul className="text-gray-400 mt-2">
-              <li>• São Paulo (Capital)</li>
-              <li>• Guarulhos</li>
-              <li>• Osasco</li>
-              <li>• Outras cidades da Grande São Paulo</li>
+              <li>• Brasília (Capital)</li>
+              <li>• Região do Entorno</li>
+              <li>• Todo o Distrito Federal</li>
+              <li>• Cidades próximas</li>
             </ul>
           </div>
           
@@ -34,16 +34,16 @@ export default function Footer({ whatsappNumber }: FooterProps) {
                 href={`https://wa.me/${whatsappNumber}`} 
                 className="text-gray-400 hover:text-white transition duration-300"
               >
-                WhatsApp: (11) 99999-9999
+                WhatsApp: (61) 98585-1689
               </a>
             </div>
             <div className="flex items-center mb-3">
               <i className="fas fa-phone text-primary mr-3"></i>
               <a 
-                href="tel:1199999999" 
+                href="tel:6198585-1689" 
                 className="text-gray-400 hover:text-white transition duration-300"
               >
-                Telefone: (11) 9999-9999
+                Telefone: (61) 98585-1689
               </a>
             </div>
             <div className="flex items-center">

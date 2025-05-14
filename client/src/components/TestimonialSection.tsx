@@ -28,7 +28,7 @@ export default function TestimonialSection() {
                 className="w-full h-full object-cover" 
               />
             </div>
-            <p className="font-medium text-secondary-dark">Maria S., São Paulo</p>
+            <p className="font-medium text-secondary-dark">Maria S., Brasília</p>
             <p className="text-secondary-light text-sm">Cliente desde 2022</p>
           </div>
         </div>

@@ -8,7 +8,7 @@ import Footer from "@/components/Footer";
 
 export default function Home() {
   // WhatsApp number - in production, this would come from an environment variable
-  const whatsappNumber = "5511999999999"; // Example number
+  const whatsappNumber = "5561985851689"; // Cliente número
   
   return (
     <div className="flex flex-col min-h-screen font-body text-secondary-dark bg-white">
